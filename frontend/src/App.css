@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,158 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.credit-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
 }
+
+.credit-list-container {
+  padding: 1rem;
+}
+
+.rating {
+  height: 70px;
+  border-radius: 10px;
+  border: 2px solid #007BFF;
+  padding: 1rem;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #E6F7FF;
+  font-weight: bold;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.rating:hover {
+  background-color: #007BFF;
+  color: white;
+  transform: scale(1.05);
+}
+
+.rating .rating-value {
+  color: #FF4C4C;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.credit-lists {
+  height: 70vh;
+  margin: 10px;
+  overflow: auto;
+  padding-right: 8px;
+  scroll-behavior: smooth;
+}
+
+.credit-list {
+  height: 30px;
+  border-radius: 7px;
+  border: solid 0.5px #007BFF;
+  padding: 10px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.credit-list:hover{
+  cursor: pointer;
+			background-color: #f2f6fe;
+			border: 2px solid #007BFF;
+}
+
+.credit-selected {
+  border: solid 2px #0b70d1;
+  background: #f2f6fe;
+
+}
+
+.credit-form {
+  overflow: auto;
+  overflow-x: hidden;
+  text-align: center;
+  padding: 15px 250px 0px;
+}
+
+.credit-form form {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 15px; 
+  margin-top: 2rem;
+}
+
+.credit-form-div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px; 
+}
+
+.credit-form label {
+  font-weight: bold;
+  color: #333;
+}
+
+.credit-form input,
+.credit-form select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.credit-form input:focus,
+.credit-form select:focus {
+    border-color: #007BFF;
+}
+
+.error-message  {
+    color: red;
+    font-size: 12px;
+ }
+
+ .action-div {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+ .action-button {
+  width: 32px;
+  height: 32px;
+  padding: 8px 7.6px 7.6px 8px;
+  border-radius: 5px;
+  background-color: #0b70d1;
+  line-height: 10px;
+  margin-left: 5px;
+  cursor: pointer;
+ }
+
+ .action-button:hover {
+  background: #005aad radial-gradient(circle, transparent 1%, #005aad 1%) center/15000%;
+  transition: background 0.8s;
+}
+
+.action-button:active {
+  background-color: #ffffff;
+  background-size: 100%;
+  transition: background 0s;
+}
+
+ .action-span {
+  font-size: 0.875rem;
+  font-weight: normal;
+  text-align: right;
+  color: #fff;
+ }
+
+ 

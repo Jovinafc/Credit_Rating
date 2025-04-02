@@ -1,0 +1,92 @@
+2025-04-01 20:52:34,639 - app - INFO - Database initialized.
+2025-04-01 20:52:34,639 - app - INFO - FastAPI started.
+2025-04-01 20:52:47,775 - app - INFO - Retrieving mortgages.
+2025-04-01 20:53:24,838 - app - INFO - Retrieving mortgages.
+2025-04-01 20:53:26,557 - app - INFO - Database initialized.
+2025-04-01 20:53:26,557 - app - INFO - FastAPI started.
+2025-04-01 20:54:11,842 - app - INFO - Updating mortgage with ID: 12.
+2025-04-01 20:54:11,860 - app - ERROR - Mortgage with ID 12 not found.
+2025-04-01 20:55:42,452 - app - INFO - Deleting mortgage with ID: 12.
+2025-04-01 20:55:42,456 - app - ERROR - Mortgage with ID 12 not found.
+2025-04-01 20:58:26,883 - app - INFO - Database initialized.
+2025-04-01 20:58:26,883 - app - INFO - FastAPI started.
+2025-04-01 21:09:20,683 - app - INFO - Database initialized.
+2025-04-01 21:09:20,683 - app - INFO - FastAPI started.
+2025-04-01 21:11:57,344 - app - INFO - Database initialized.
+2025-04-01 21:11:57,344 - app - INFO - FastAPI started.
+2025-04-01 21:31:05,953 - backend.app - INFO - Root endpoint accessed.
+2025-04-01 21:31:48,865 - backend.app - INFO - Root endpoint accessed.
+2025-04-01 23:47:58,840 - backend.app - INFO - Root endpoint accessed.
+2025-04-01 23:47:58,850 - backend.app - INFO - Creating a new mortgage.
+2025-04-01 23:51:59,483 - backend.app - INFO - Root endpoint accessed.
+2025-04-01 23:51:59,494 - backend.app - INFO - Creating a new mortgage.
+2025-04-01 23:51:59,587 - backend.app - INFO - Retrieving mortgages.
+2025-04-01 23:52:00,755 - backend.app - INFO - Retrieving mortgage with ID: 1.
+2025-04-01 23:52:00,804 - backend.app - INFO - Deleting mortgage with ID: 12.
+2025-04-01 23:54:03,323 - backend.app - INFO - Root endpoint accessed.
+2025-04-01 23:54:03,336 - backend.app - INFO - Creating a new mortgage.
+2025-04-01 23:54:03,407 - backend.app - INFO - Retrieving mortgages.
+2025-04-01 23:54:04,513 - backend.app - INFO - Retrieving mortgage with ID: 1.
+2025-04-01 23:54:04,537 - backend.app - INFO - Deleting mortgage with ID: 12.
+2025-04-02 00:04:03,947 - app - INFO - Database initialized.
+2025-04-02 00:04:03,947 - app - INFO - FastAPI started.
+2025-04-02 00:04:05,170 - app - INFO - Database initialized.
+2025-04-02 00:04:05,170 - app - INFO - FastAPI started.
+2025-04-02 16:53:43,422 - app - INFO - Database initialized.
+2025-04-02 16:53:43,422 - app - INFO - FastAPI started.
+2025-04-02 16:53:52,462 - app - INFO - Root endpoint accessed.
+2025-04-02 19:19:24,235 - app - INFO - Database initialized.
+2025-04-02 19:19:24,235 - app - INFO - FastAPI started.
+2025-04-02 19:19:31,403 - app - INFO - Retrieving mortgages.
+2025-04-02 19:19:31,409 - app - INFO - Retrieving mortgages.
+2025-04-02 19:20:31,153 - app - INFO - Retrieving mortgages.
+2025-04-02 19:20:31,937 - app - INFO - Retrieving mortgages.
+2025-04-02 19:22:06,159 - app - INFO - Retrieving mortgages.
+2025-04-02 19:22:06,172 - app - INFO - Retrieving mortgages.
+2025-04-02 19:31:33,268 - app - INFO - Retrieving mortgages.
+2025-04-02 19:31:33,275 - app - INFO - Retrieving mortgages.
+2025-04-02 20:34:46,549 - app - INFO - Retrieving mortgages.
+2025-04-02 20:34:46,662 - app - INFO - Retrieving mortgages.
+2025-04-02 20:44:51,060 - app - INFO - Retrieving mortgages.
+2025-04-02 20:44:51,081 - app - INFO - Retrieving mortgages.
+2025-04-02 20:51:44,274 - app - INFO - Retrieving mortgages.
+2025-04-02 20:51:49,480 - app - INFO - Retrieving mortgages.
+2025-04-02 20:51:49,495 - app - INFO - Retrieving mortgages.
+2025-04-02 21:16:18,785 - app - INFO - Retrieving mortgages.
+2025-04-02 21:16:18,798 - app - INFO - Retrieving mortgages.
+2025-04-02 21:21:34,151 - app - INFO - Retrieving mortgages.
+2025-04-02 21:21:34,161 - app - INFO - Retrieving mortgages.
+2025-04-02 21:22:21,873 - app - INFO - Deleting mortgage with ID: 12.
+2025-04-02 21:22:21,934 - app - ERROR - Mortgage with ID 12 not found.
+2025-04-02 21:23:51,353 - app - INFO - Retrieving mortgages.
+2025-04-02 21:23:51,356 - app - INFO - Retrieving mortgages.
+2025-04-02 21:27:12,072 - app - INFO - Retrieving mortgages.
+2025-04-02 21:27:12,078 - app - INFO - Retrieving mortgages.
+2025-04-02 21:27:14,512 - app - INFO - Database initialized.
+2025-04-02 21:27:14,512 - app - INFO - FastAPI started.
+2025-04-02 21:27:16,609 - app - INFO - Deleting mortgage with ID: 6.
+2025-04-02 21:29:20,068 - app - INFO - Retrieving mortgages.
+2025-04-02 21:29:20,072 - app - INFO - Retrieving mortgages.
+2025-04-02 21:29:27,749 - app - INFO - Deleting mortgage with ID: 5.
+2025-04-02 21:30:09,864 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:09,868 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,227 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,244 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,472 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,480 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,663 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:13,671 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:14,592 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:14,600 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:15,391 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:15,399 - app - INFO - Retrieving mortgages.
+2025-04-02 21:30:19,537 - app - INFO - Deleting mortgage with ID: 4.
+2025-04-02 21:30:19,571 - app - INFO - Retrieving mortgages.
+2025-04-02 21:33:58,531 - app - INFO - Retrieving mortgages.
+2025-04-02 21:33:58,543 - app - INFO - Retrieving mortgages.
+2025-04-02 21:35:47,627 - app - INFO - Creating a new mortgage.
+2025-04-02 21:35:47,665 - app - INFO - Retrieving mortgages.
+2025-04-02 21:37:51,839 - app - INFO - Updating mortgage with ID: 7.
+2025-04-02 21:37:51,891 - app - INFO - Retrieving mortgages.
+2025-04-02 22:05:23,574 - app - INFO - Creating a new mortgage.
+2025-04-02 22:05:23,608 - app - INFO - Retrieving mortgages.
