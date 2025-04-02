@@ -27,6 +27,8 @@ For Backend setup.
 ```bash
 cd backend
 cp .env.example .env
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn app:app --reload
 ```
