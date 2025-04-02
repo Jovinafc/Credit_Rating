@@ -15,7 +15,7 @@ git clone https://github.com/Jovinafc/Credit_Rating.git
 cd Credit_Rating
 ```
 
-For setting up database schema
+For setting up database schema, make sure that Mysql installed.
 
 ```bash
 cd database
@@ -63,6 +63,10 @@ DELETE /mortgages/{id} - Delete a mortgage by ID
 **Screenshots**
 
 ![Initial View](assets/images/Image_One.png)
+
+Validation of the form.
+
+![Validation](assets/images/Image_Four.png)
 
 After Adding some mortgages data.
 

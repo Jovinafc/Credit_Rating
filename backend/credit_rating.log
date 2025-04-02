@@ -90,3 +90,7 @@
 2025-04-02 21:37:51,891 - app - INFO - Retrieving mortgages.
 2025-04-02 22:05:23,574 - app - INFO - Creating a new mortgage.
 2025-04-02 22:05:23,608 - app - INFO - Retrieving mortgages.
+2025-04-02 22:27:53,869 - app - INFO - Database initialized.
+2025-04-02 22:27:53,869 - app - INFO - FastAPI started.
+2025-04-02 22:28:02,644 - app - INFO - Retrieving mortgages.
+2025-04-02 22:28:02,669 - app - INFO - Retrieving mortgages.
