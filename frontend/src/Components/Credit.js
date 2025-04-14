@@ -8,21 +8,25 @@ const Credit = () => {
     const [mortgages, setMortgages] = useState([]);
     const [selectedMortgage, setSelectedMortgage] = useState(null);
     
-   useEffect(() => {
-    getMortgages();
-   }, []);
+    //#region useEffect
+    useEffect(() => {
+     getMortgages();
+    }, []);
+    //#endregion
 
-   const getMortgages = () => {
-    getData()
-        .then((res) => {
-            console.log("Res", res);
-            if(res.status === "success"){
-                setMortgages(res?.data?.mortgages);
-                setRating(res?.data?.total_rating)
-            }
-        })
-        .catch(err => console.log(err))
-   }
+    //#region Function
+    const getMortgages = () => {  
+      getData()
+          .then((res) => {
+              console.log("Res", res);
+              if(res.status === "success"){
+                  setMortgages(res?.data?.mortgages);
+                  setRating(res?.data?.total_rating)
+              }
+          })
+          .catch(err => console.log(err))
+     }
+    //#endregion
 
   return (
     <div class="credit-container">
